@@ -1,33 +1,32 @@
 # Hi, I'm Devanshu Shrivastava 👋
 
 🎓 MEng Energy Systems @ Rutgers University, New Brunswick, NJ  
-⚡ Energy Engineer | Researcher | Educator  
-🌍 Passionate about clean energy, grid modernisation, and sustainable infrastructure
+⚡ Energy Engineer | Researcher  
+🌍 Passionate about Clean Energy, Grid Modernisation, and Sustainable Infrastructure
 
 ---
 
 ## About Me
 
-I'm an energy engineer with 8+ years of combined industry and research experience, working at the intersection of renewable energy, systems optimisation, and climate policy.
+I'm an energy engineer with 6+ years of combined industry and research experience, working at the intersection of renewable energy, systems optimisation, and climate policy.
 
 I've spent years in the field — leading solar-powered infrastructure projects across India under the PM-KUSUM government scheme, reducing grid electricity dependency by 20% at regional water facilities. Now I'm at Rutgers, applying data science, linear programming, and operations research to real-world energy challenges like smart grid optimisation and national energy planning.
-
-Outside research, I've taught environment and climate policy to UPSC civil service aspirants — one of the world's most competitive exams — achieving a 50% preliminary pass rate and 4% final selection rate across two cohorts, well above national averages.
-
-I'm currently seeking roles in **energy optimisation**, **grid modernisation**, and **sustainability policy**.
 
 ---
 
 ## 🔬 Research & Projects
 
-### ⚡ Smart Grid Optimisation
+### Smart Grid Optimisation
 Simulation-based spatial optimisation of solar PV placement to minimise distribution losses in IEEE 33-bus smart grid systems using MATLAB and Particle Swarm Optimisation (PSO). Achieved **48% loss reduction** over baseline.
 
-### 🌏 Optimal Energy Mix Planning for India
+### Optimal Energy Mix Planning for India
 Formulated India's national energy strategy as a Linear Programming problem across 10 states and 5 technologies. Solved using Excel Solver (Simplex LP) to find a globally optimal, climate-compliant capacity mix. Quantified the **$11.28 billion economic cost** of India's climate commitments.
 
-### 🌊 Risk Analysis of Hydro Sluice Gates
+### Risk Analysis of Hydro Sluice Gates
 Probabilistic Risk Analysis (PRA) of sluice gate system failure in multipurpose hydro power projects, using realistic failure modelling and system analysis to inform maintenance strategies.
+
+### Grid Codes Low Voltage Ride-Through (LVRT)
+Validated a Python tool against a simulated 0.2 pu voltage dip; identified that the voltage remained above the grid-code envelope throughout, and confirmed the verdict flips to 'may disconnect' for deeper/longer dips that cross below the envelope.
 
 ---
 
