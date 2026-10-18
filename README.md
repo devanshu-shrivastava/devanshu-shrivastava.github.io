@@ -1,16 +1,16 @@
 # Hi, I'm Devanshu Shrivastava 👋
 
-🎓 MEng Energy Systems @ Rutgers University, New Brunswick, NJ  
-⚡ Energy Engineer | Researcher  
-🌍 Passionate about Clean Energy, Grid Modernisation, and Sustainable Infrastructure
+🎓 MEng Energy Systems, Rutgers University, New Brunswick, NJ  
+⚡ Energy Systems Engineer | Researcher  
+🌍 Passionate about Clean Energy, Grid Modernization, and Energy Optimization 
 
 ---
 
 ## About Me
 
-I'm an energy engineer with 6+ years of combined industry and research experience, working at the intersection of renewable energy, systems optimisation, and climate policy.
+I'm an energy engineer with industry and research experience, working at the intersection of renewable energy, systems optimization, and energy modeling.
 
-I've spent years in the field — leading solar-powered infrastructure projects across India under the PM-KUSUM government scheme, reducing grid electricity dependency by 20% at regional water facilities. Now I'm at Rutgers, applying data science, linear programming, and operations research to real-world energy challenges like smart grid optimisation and national energy planning.
+I'm pursuing my Master's at Rutgers, where I am learning about applying data science, linear programming, and operations research to real-world energy challenges and modelling the energy infrastructure like smart grid optimization and national energy planning.
 
 ---
 
@@ -68,14 +68,6 @@ Experimental investigation of Jatropha biodiesel blended with alumina nanopartic
 - Data Science & Machine Learning — IIT Roorkee (2023–2024)
 - Foundational Data Science — IBM (2022)
 - CATIA / AutoCAD Certified · CNC Programming
-
----
-
-## 💼 Experience Highlights
-
-- **Assistant Engineer, Energy & Water Infrastructure** — Enterprising Technocrats, India (2017–2023)
-- **Engineering Intern** — Toyota Kirloskar Motors, Bengaluru (2014)
-- **Educator, Environment & Climate Policy** — PW-Sarrthi IAS / Next IAS, New Delhi (2023–2025)
 
 ---
 
